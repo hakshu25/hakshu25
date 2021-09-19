@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![hakshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyhighair)](https://github.com/flyhighair/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyhighair&layout=compact)](https://github.com/flyhighair/github-readme-stats)
+
+
+- 😄 I'm Hakshu
+- 🔭 I’m currently working on development of Japanese school education platform.
+- 🌱 I’m currently learning
+  - Web Enginnering
+  - Go
+  - Docker
+  - TypeScript
+  - Japanese School Education
+- ⚡ Fun fact
+  - Learn
+  - Game
+  - Drama
+  - Comic
+  - Eating
+  - Drinking
