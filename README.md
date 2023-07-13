@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**flyhighair/flyhighair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hakshu25/hakshu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![hakshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyhighair)](https://github.com/flyhighair/github-readme-stats)
+[![hakshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakshu25)](https://github.com/hakshu25/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyhighair&layout=compact)](https://github.com/flyhighair/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakshu25&layout=compact)](https://github.com/hakshu25/github-readme-stats)
 
 
 - 😄 I'm Hakshu
