@@ -21,17 +21,18 @@ Here are some ideas to get you started:
 
 
 - 😄 I'm Hakshu
-- 🔭 I’m currently working on development of Japanese school education platform.
+- 🔭 I’m currently working as a freelance web engineer in Japan.
+  - Click [here](https://hakshu25.github.io/resume/) for my career.
 - 🌱 I’m currently learning
   - Web Enginnering
   - Go
   - Docker
   - TypeScript
-  - Japanese School Education
 - ⚡ Fun fact
   - Learn
   - Game
   - Drama
+  - Japanese Comedian
   - Comic
   - Eating
   - Drinking
