@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   - Go
   - Docker
   - TypeScript
+  - deno
 - ⚡ Fun fact
   - Learn
   - Game
