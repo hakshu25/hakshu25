@@ -18,9 +18,3 @@ I'm Hakshu, a web engineer based in Japan.
 
 - ✍️ Blog: [hakshu-blog.pages.dev](https://hakshu-blog.pages.dev)
 - 🐦 X: [@hakshu25](https://x.com/hakshu25)
-
-### 📊 Stats
-
-[![hakshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakshu25)](https://github.com/hakshu25/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakshu25&layout=compact)](https://github.com/hakshu25/github-readme-stats)
